@@ -6,7 +6,7 @@ const CODE_MAP: Record<string, string> = {
   "1848w15": "https://1848-w-15th-ave-demo.vercel.app",
   "1848-demo": "https://1848-demo.vercel.app",
   "1848-w-15th-ave-demo": "https://1848-w-15th-ave-demo.vercel.app",
-  "1801": "https://1801-1515-alberni.vercel.app",
+  "1801": "https://fifteenfifteen-observatory.vercel.app",
 };
 
 export default function TapCodeEntry() {
